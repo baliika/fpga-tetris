@@ -1,0 +1,18 @@
+
+User Configuration
+-------------------------------------
+Algorithm				:	Minimum_Area
+Memory Type				:	Single_Port_ROM
+Port A Read Width		:	2
+Memory Depth			:	7744
+--------------------------------------------------------------
+
+Block RAM resource(s) (9K BRAMs)		: 0
+Block RAM resource(s) (18K BRAMs)		: 1
+--------------------------------------------------------------
+Clock A Frequency		:  100
+Port A Enable Rate		:  100
+Port A Write Rate		:  0
+----------------------------------------------------------
+Estimated Power for IP : 1.177349 mW
+----------------------------------------------------------

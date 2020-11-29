@@ -1,0 +1,8 @@
+# Color generation
+generate_colors
+*.html
+
+# Graphics and Melody generation
+generate_graphics
+generate_melody
+*.coe
