@@ -4,6 +4,8 @@ This repository holds an FPGA-based Tetris game implementation in **Verilog** th
 Should you find this repository helpful for your studies or your work, please give it a star.  
 If you have any questions, queries, or recommendations, simply open an issue.
 
+<a href="https://youtu.be/ppmM2zAbeEU" target="_blank"><img src="./youtube.png" width="900" height="480" border="10" /></a>
+
 ## System overview
 
 The implementation of the game is divided into independent functional hardware blocks:
